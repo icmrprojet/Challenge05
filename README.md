@@ -3,4 +3,4 @@
 
 
 # Challenge05
-APPLICATION JQUERY :  JEU de tire
+APPLICATION JQUERY :  JEU de tir
